@@ -35,15 +35,15 @@ Using `gseapy`, we query the **GO Biological Process database** to identify cell
 ### Prerequisites
 Ensure you have Python 3.x installed.
 
-##Directory Layout
+## Directory Layout
 /data: Store your gene-specific folders here. Each must contain the standard NCBI ncbi_dataset/data/gene.fna structure.
 
 /test: The output repository. The pipeline automatically creates this and stores generated enrichment_analysis.png plots and tabular reports.
 
-##Execution
+## Execution
 python Analyze_gene_expression_correlations.py
 
-##Technologies Used
+## Technologies Used
 Bioinformatics: Biopython, GSEAPY, Bioservices
 Data Science: Pandas, NumPy, Scikit-learn, SciPy
 Visualization: Matplotlib, Seaborn
