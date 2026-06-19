@@ -1,0 +1,197 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+GO_Biological_Process_2023	Mitotic Spindle Organization (GO:0007052)	4/85	6.256140e-08	1.226203e-05	0	0	1.638601e+02	2.717966e+03	TPX2;KIF4A;PLK1;AURKA
+GO_Biological_Process_2023	Mitotic Cell Cycle Phase Transition (GO:0044772)	4/111	1.838952e-07	1.701230e-05	0	0	1.238816e+02	1.921268e+03	CCNB2;PLK1;CDK1;AURKA
+GO_Biological_Process_2023	Negative Regulation Of Mitotic Metaphase/Anaphase Transition (GO:0045841)	3/28	2.929226e-07	1.701230e-05	0	0	3.422571e+02	5.148696e+03	PLK1;FBXO5;BUB1
+GO_Biological_Process_2023	Regulation Of Cell Cycle Process (GO:0010564)	4/130	3.471898e-07	1.701230e-05	0	0	1.051005e+02	1.563202e+03	PLK1;FBXO5;BUB1;AURKA
+GO_Biological_Process_2023	G2/M Transition Of Mitotic Cell Cycle (GO:0000086)	3/38	7.523331e-07	2.876789e-05	0	0	2.443469e+02	3.445313e+03	PLK1;CDK1;AURKA
+GO_Biological_Process_2023	Cell Cycle G2/M Phase Transition (GO:0044839)	3/40	8.806497e-07	2.876789e-05	0	0	2.311158e+02	3.222357e+03	PLK1;CDK1;AURKA
+GO_Biological_Process_2023	Microtubule Cytoskeleton Organization Involved In Mitosis (GO:1902850)	3/59	2.883285e-06	8.073197e-05	0	0	1.525561e+02	1.946094e+03	KIF4A;PLK1;CDK1
+GO_Biological_Process_2023	DNA Damage Response (GO:0006974)	4/384	2.563688e-05	5.973641e-04	0	0	3.440351e+01	3.636960e+02	TOP2A;CDK1;MCM10;FBXO5
+GO_Biological_Process_2023	Regulation Of Mitotic Cell Cycle (GO:0007346)	3/125	2.769740e-05	5.973641e-04	0	0	6.979391e+01	7.324293e+02	PLK1;FBXO5;AURKA
+GO_Biological_Process_2023	Regulation Of Ubiquitin Protein Ligase Activity (GO:1904666)	2/17	3.047776e-05	5.973641e-04	0	0	3.329167e+02	3.461838e+03	PLK1;FBXO5
+GO_Biological_Process_2023	Positive Regulation Of G2/M Transition Of Mitotic Cell Cycle (GO:0010971)	2/21	4.701126e-05	8.376551e-04	0	0	2.627763e+02	2.618598e+03	CDK1;FBXO5
+GO_Biological_Process_2023	Peptidyl-Serine Phosphorylation (GO:0018105)	3/158	5.573290e-05	8.377136e-04	0	0	5.484332e+01	5.371870e+02	PLK1;CDK1;AURKA
+GO_Biological_Process_2023	Positive Regulation Of Cell Cycle G2/M Phase Transition (GO:1902751)	2/24	6.173695e-05	8.377136e-04	0	0	2.269091e+02	2.199345e+03	CDK1;FBXO5
+GO_Biological_Process_2023	Peptidyl-Serine Modification (GO:0018209)	3/166	6.455818e-05	8.377136e-04	0	0	5.213059e+01	5.029530e+02	PLK1;CDK1;AURKA
+GO_Biological_Process_2023	Spindle Assembly Checkpoint Signaling (GO:0071173)	2/26	7.265883e-05	8.377136e-04	0	0	2.079792e+02	1.981986e+03	PLK1;BUB1
+GO_Biological_Process_2023	Mitotic Spindle Assembly Checkpoint Signaling (GO:0007094)	2/26	7.265883e-05	8.377136e-04	0	0	2.079792e+02	1.981986e+03	PLK1;BUB1
+GO_Biological_Process_2023	Mitotic Spindle Checkpoint Signaling (GO:0071174)	2/26	7.265883e-05	8.377136e-04	0	0	2.079792e+02	1.981986e+03	PLK1;BUB1
+GO_Biological_Process_2023	Mitotic G2 DNA Damage Checkpoint Signaling (GO:0007095)	2/30	9.714759e-05	1.057829e-03	0	0	1.782321e+02	1.646737e+03	PLK1;CDK1
+GO_Biological_Process_2023	Regulation Of Ubiquitin-Protein Transferase Activity (GO:0051438)	2/32	1.107116e-04	1.084974e-03	0	0	1.663333e+02	1.515061e+03	PLK1;FBXO5
+GO_Biological_Process_2023	Chromosome Condensation (GO:0030261)	2/32	1.107116e-04	1.084974e-03	0	0	1.663333e+02	1.515061e+03	TOP2A;PLK1
+GO_Biological_Process_2023	Sister Chromatid Segregation (GO:0000819)	2/34	1.251535e-04	1.168100e-03	0	0	1.559219e+02	1.401109e+03	TOP2A;PLK1
+GO_Biological_Process_2023	Regulation Of G2/M Transition Of Mitotic Cell Cycle (GO:0010389)	2/35	1.327033e-04	1.182266e-03	0	0	1.511894e+02	1.349727e+03	CDK1;FBXO5
+GO_Biological_Process_2023	Regulation Of Mitotic Spindle Organization (GO:0060236)	2/39	1.650898e-04	1.406852e-03	0	0	1.348176e+02	1.174129e+03	TPX2;PLK1
+GO_Biological_Process_2023	Mitotic Spindle Assembly (GO:0090307)	2/44	2.104819e-04	1.718935e-03	0	0	1.187381e+02	1.005250e+03	TPX2;KIF4A
+GO_Biological_Process_2023	Mitotic G2/M Transition Checkpoint (GO:0044818)	2/46	2.301614e-04	1.804466e-03	0	0	1.133295e+02	9.493310e+02	PLK1;CDK1
+GO_Biological_Process_2023	Regulation Of Mitotic Metaphase/Anaphase Transition (GO:0030071)	2/49	2.613078e-04	1.969859e-03	0	0	1.060798e+02	8.751383e+02	PLK1;FBXO5
+GO_Biological_Process_2023	Regulation Of Protein Localization To Nucleus (GO:1900180)	2/52	2.944024e-04	2.137143e-03	0	0	9.970000e+01	8.106171e+02	PLK1;CDK1
+GO_Biological_Process_2023	Organelle Disassembly (GO:1903008)	2/54	3.175455e-04	2.159484e-03	0	0	9.585577e+01	7.721076e+02	CDK1;AURKA
+GO_Biological_Process_2023	DNA Metabolic Process (GO:0006259)	3/288	3.289879e-04	2.159484e-03	0	0	2.963158e+01	2.376301e+02	TOP2A;CDK1;MCM10
+GO_Biological_Process_2023	Mitotic DNA Damage Checkpoint Signaling (GO:0044773)	2/56	3.415510e-04	2.159484e-03	0	0	9.229630e+01	7.367103e+02	PLK1;CDK1
+GO_Biological_Process_2023	Regulation Of Mitotic Nuclear Division (GO:0007088)	2/56	3.415510e-04	2.159484e-03	0	0	9.229630e+01	7.367103e+02	FBXO5;AURKA
+GO_Biological_Process_2023	Mitotic Cytokinesis (GO:0000281)	2/59	3.791732e-04	2.322436e-03	0	0	8.742544e+01	6.886954e+02	KIF4A;PLK1
+GO_Biological_Process_2023	Positive Regulation Of Mitotic Cell Cycle Phase Transition (GO:1901992)	2/63	4.323414e-04	2.567846e-03	0	0	8.167623e+01	6.326882e+02	CDK1;FBXO5
+GO_Biological_Process_2023	Positive Regulation Of Protein Localization To Nucleus (GO:1900182)	2/72	5.644733e-04	3.254023e-03	0	0	7.114286e+01	5.321214e+02	PLK1;CDK1
+GO_Biological_Process_2023	Regulation Of Cyclin-Dependent Protein Serine/Threonine Kinase Activity (GO:0000079)	2/79	6.791469e-04	3.781288e-03	0	0	6.465260e+01	4.716196e+02	CCNB2;PLK1
+GO_Biological_Process_2023	Regulation Of Cytokinesis (GO:0032465)	2/80	6.963752e-04	3.781288e-03	0	0	6.382051e+01	4.639510e+02	PLK1;AURKA
+GO_Biological_Process_2023	Cytoskeleton-Dependent Cytokinesis (GO:0061640)	2/81	7.138146e-04	3.781288e-03	0	0	6.300949e+01	4.564967e+02	KIF4A;PLK1
+GO_Biological_Process_2023	Regulation Of Cell Division (GO:0051302)	2/83	7.493259e-04	3.864944e-03	0	0	6.144753e+01	4.421971e+02	PLK1;AURKA
+GO_Biological_Process_2023	Positive Regulation Of Protein Localization (GO:1903829)	2/85	7.856795e-04	3.940441e-03	0	0	5.996084e+01	4.286578e+02	PLK1;CDK1
+GO_Biological_Process_2023	Regulation Of Mitotic Cell Cycle Phase Transition (GO:1901990)	2/86	8.041717e-04	3.940441e-03	0	0	5.924405e+01	4.221552e+02	PLK1;AURKA
+GO_Biological_Process_2023	Phosphorylation (GO:0016310)	3/429	1.051153e-03	5.025024e-03	0	0	1.968209e+01	1.349772e+02	PLK1;CDK1;AURKA
+GO_Biological_Process_2023	Mitotic Sister Chromatid Segregation (GO:0000070)	2/111	1.334294e-03	6.226704e-03	0	0	4.559862e+01	3.018334e+02	TPX2;PLK1
+GO_Biological_Process_2023	Regulation Of Protein Binding (GO:0043393)	2/118	1.505888e-03	6.864048e-03	0	0	4.283190e+01	2.783376e+02	PLK1;AURKA
+GO_Biological_Process_2023	Protein Phosphorylation (GO:0006468)	3/500	1.634778e-03	7.282193e-03	0	0	1.680914e+01	1.078516e+02	PLK1;CDK1;AURKA
+GO_Biological_Process_2023	Negative Regulation Of Meiotic Cell Cycle (GO:0051447)	1/5	2.497708e-03	1.064241e-02	0	0	5.551667e+02	3.326771e+03	FBXO5
+GO_Biological_Process_2023	Centromeric Sister Chromatid Cohesion (GO:0070601)	1/5	2.497708e-03	1.064241e-02	0	0	5.551667e+02	3.326771e+03	BUB1
+GO_Biological_Process_2023	Negative Regulation Of Meiotic Nuclear Division (GO:0045835)	1/6	2.996578e-03	1.223603e-02	0	0	4.441111e+02	2.580412e+03	FBXO5
+GO_Biological_Process_2023	Mitotic Nuclear Membrane Disassembly (GO:0007077)	1/6	2.996578e-03	1.223603e-02	0	0	4.441111e+02	2.580412e+03	PLK1
+GO_Biological_Process_2023	Regulation Of Protein Localization To Cell Cortex (GO:1904776)	1/7	3.495224e-03	1.304591e-02	0	0	3.700741e+02	2.093271e+03	PLK1
+GO_Biological_Process_2023	DNA Ligation (GO:0006266)	1/7	3.495224e-03	1.304591e-02	0	0	3.700741e+02	2.093271e+03	TOP2A
+GO_Biological_Process_2023	Regulation Of Meiotic Nuclear Division (GO:0040020)	1/7	3.495224e-03	1.304591e-02	0	0	3.700741e+02	2.093271e+03	FBXO5
+GO_Biological_Process_2023	Negative Regulation Of DNA-templated DNA Replication (GO:2000104)	1/7	3.495224e-03	1.304591e-02	0	0	3.700741e+02	2.093271e+03	FBXO5
+GO_Biological_Process_2023	DNA Topological Change (GO:0006265)	1/8	3.993646e-03	1.304591e-02	0	0	3.171905e+02	1.751859e+03	TOP2A
+GO_Biological_Process_2023	Regulation Of Sister Chromatid Cohesion (GO:0007063)	1/8	3.993646e-03	1.304591e-02	0	0	3.171905e+02	1.751859e+03	BUB1
+GO_Biological_Process_2023	Negative Regulation Of Mitotic Nuclear Division (GO:0045839)	1/8	3.993646e-03	1.304591e-02	0	0	3.171905e+02	1.751859e+03	FBXO5
+GO_Biological_Process_2023	Negative Regulation Of Ubiquitin Protein Ligase Activity (GO:1904667)	1/8	3.993646e-03	1.304591e-02	0	0	3.171905e+02	1.751859e+03	FBXO5
+GO_Biological_Process_2023	Regulation Of Mitotic Sister Chromatid Segregation (GO:0033047)	1/8	3.993646e-03	1.304591e-02	0	0	3.171905e+02	1.751859e+03	CDK1
+GO_Biological_Process_2023	Positive Regulation Of Ubiquitin Protein Ligase Activity (GO:1904668)	1/8	3.993646e-03	1.304591e-02	0	0	3.171905e+02	1.751859e+03	PLK1
+GO_Biological_Process_2023	Nuclear Membrane Disassembly (GO:0051081)	1/8	3.993646e-03	1.304591e-02	0	0	3.171905e+02	1.751859e+03	PLK1
+GO_Biological_Process_2023	Negative Regulation Of Chromosome Organization (GO:2001251)	1/8	3.993646e-03	1.304591e-02	0	0	3.171905e+02	1.751859e+03	TOP2A
+GO_Biological_Process_2023	Regulation Of Apoptotic Process (GO:0042981)	3/705	4.347022e-03	1.375627e-02	0	0	1.177534e+01	6.403739e+01	TOP2A;PLK1;CDK1
+GO_Biological_Process_2023	Protein Modification Process (GO:0036211)	3/711	4.451989e-03	1.375627e-02	0	0	1.167191e+01	6.319645e+01	PLK1;CDK1;AURKA
+GO_Biological_Process_2023	Protein Localization To Nuclear Envelope (GO:0090435)	1/9	4.491844e-03	1.375627e-02	0	0	2.775278e+02	1.500174e+03	PLK1
+GO_Biological_Process_2023	Positive Regulation Of RNA Biosynthetic Process (GO:1902680)	1/9	4.491844e-03	1.375627e-02	0	0	2.775278e+02	1.500174e+03	TOP2A
+GO_Biological_Process_2023	Protein Localization To Condensed Chromosome (GO:1903083)	1/10	4.989818e-03	1.438242e-02	0	0	2.466790e+02	1.307487e+03	CDK1
+GO_Biological_Process_2023	Negative Regulation Of Nuclear Division (GO:0051784)	1/10	4.989818e-03	1.438242e-02	0	0	2.466790e+02	1.307487e+03	FBXO5
+GO_Biological_Process_2023	Mitotic Spindle Elongation (GO:0000022)	1/10	4.989818e-03	1.438242e-02	0	0	2.466790e+02	1.307487e+03	KIF4A
+GO_Biological_Process_2023	Mitotic Spindle Midzone Assembly (GO:0051256)	1/10	4.989818e-03	1.438242e-02	0	0	2.466790e+02	1.307487e+03	KIF4A
+GO_Biological_Process_2023	Protein Localization To Kinetochore (GO:0034501)	1/11	5.487568e-03	1.558787e-02	0	0	2.220000e+02	1.155570e+03	CDK1
+GO_Biological_Process_2023	Positive Regulation Of Developmental Process (GO:0051094)	2/233	5.717969e-03	1.601031e-02	0	0	2.138420e+01	1.104310e+02	FBXO5;AURKA
+GO_Biological_Process_2023	DNA Conformation Change (GO:0071103)	1/12	5.985094e-03	1.652223e-02	0	0	2.018081e+02	1.032951e+03	TOP2A
+GO_Biological_Process_2023	Resolution Of Meiotic Recombination Intermediates (GO:0000712)	1/14	6.979474e-03	1.899968e-02	0	0	1.707436e+02	8.477047e+02	TOP2A
+GO_Biological_Process_2023	Mitotic Chromosome Condensation (GO:0007076)	1/15	7.476328e-03	2.007343e-02	0	0	1.585397e+02	7.762124e+02	PLK1
+GO_Biological_Process_2023	Apoptotic Nuclear Changes (GO:0030262)	1/16	7.972959e-03	2.083600e-02	0	0	1.479630e+02	7.149126e+02	TOP2A
+GO_Biological_Process_2023	Nuclear Chromosome Segregation (GO:0098813)	1/16	7.972959e-03	2.083600e-02	0	0	1.479630e+02	7.149126e+02	TOP2A
+GO_Biological_Process_2023	Regulation Of Single Stranded Viral RNA Replication Via Double Stranded DNA Intermediate (GO:0045091)	1/17	8.469366e-03	2.128200e-02	0	0	1.387083e+02	6.618190e+02	TOP2A
+GO_Biological_Process_2023	Negative Regulation Of Ubiquitin-Protein Transferase Activity (GO:0051444)	1/17	8.469366e-03	2.128200e-02	0	0	1.387083e+02	6.618190e+02	FBXO5
+GO_Biological_Process_2023	Negative Regulation Of Cellular Senescence (GO:2000773)	1/17	8.469366e-03	2.128200e-02	0	0	1.387083e+02	6.618190e+02	FBXO5
+GO_Biological_Process_2023	Protein Localization To Chromosome, Centromeric Region (GO:0071459)	1/18	8.965550e-03	2.169442e-02	0	0	1.305425e+02	6.154250e+02	CDK1
+GO_Biological_Process_2023	Positive Regulation Of Chromosome Segregation (GO:0051984)	1/18	8.965550e-03	2.169442e-02	0	0	1.305425e+02	6.154250e+02	CDK1
+GO_Biological_Process_2023	Regulation Of Cell Cycle G2/M Phase Transition (GO:1902749)	1/18	8.965550e-03	2.169442e-02	0	0	1.305425e+02	6.154250e+02	AURKA
+GO_Biological_Process_2023	Regulation Of Cell Cycle (GO:0051726)	2/298	9.201000e-03	2.192832e-02	0	0	1.663345e+01	7.798496e+01	PLK1;FBXO5
+GO_Biological_Process_2023	Regulation Of Nuclear Division (GO:0051783)	1/19	9.461511e-03	2.192832e-02	0	0	1.232840e+02	5.745677e+02	FBXO5
+GO_Biological_Process_2023	Negative Regulation Of Cyclin-Dependent Protein Serine/Threonine Kinase Activity (GO:0045736)	1/19	9.461511e-03	2.192832e-02	0	0	1.232840e+02	5.745677e+02	PLK1
+GO_Biological_Process_2023	Regulation Of Protein Localization To Cell Periphery (GO:1904375)	1/20	9.957248e-03	2.192832e-02	0	0	1.167895e+02	5.383358e+02	PLK1
+GO_Biological_Process_2023	Regulation Of Spindle Organization (GO:0090224)	1/20	9.957248e-03	2.192832e-02	0	0	1.167895e+02	5.383358e+02	TPX2
+GO_Biological_Process_2023	Negative Regulation Of Microtubule Depolymerization (GO:0007026)	1/20	9.957248e-03	2.192832e-02	0	0	1.167895e+02	5.383358e+02	TPX2
+GO_Biological_Process_2023	Regulation Of Mitotic Spindle Assembly (GO:1901673)	1/20	9.957248e-03	2.192832e-02	0	0	1.167895e+02	5.383358e+02	PLK1
+GO_Biological_Process_2023	Negative Regulation Of Cyclin-Dependent Protein Kinase Activity (GO:1904030)	1/20	9.957248e-03	2.192832e-02	0	0	1.167895e+02	5.383358e+02	PLK1
+GO_Biological_Process_2023	DNA Replication Initiation (GO:0006270)	1/21	1.045276e-02	2.276379e-02	0	0	1.109444e+02	5.060053e+02	MCM10
+GO_Biological_Process_2023	Regulation Of Centrosome Cycle (GO:0046605)	1/23	1.144312e-02	2.411668e-02	0	0	1.008485e+02	4.508297e+02	AURKA
+GO_Biological_Process_2023	Microtubule Nucleation (GO:0007020)	1/23	1.144312e-02	2.411668e-02	0	0	1.008485e+02	4.508297e+02	TPX2
+GO_Biological_Process_2023	Negative Regulation Of Protein Depolymerization (GO:1901880)	1/23	1.144312e-02	2.411668e-02	0	0	1.008485e+02	4.508297e+02	TPX2
+GO_Biological_Process_2023	ERK1 And ERK2 Cascade (GO:0070371)	1/24	1.193796e-02	2.437334e-02	0	0	9.645894e+01	4.271232e+02	CDK1
+GO_Biological_Process_2023	Positive Regulation Of Peptidyl-Threonine Phosphorylation (GO:0010800)	1/24	1.193796e-02	2.437334e-02	0	0	9.645894e+01	4.271232e+02	PLK1
+GO_Biological_Process_2023	Regulation Of Microtubule Depolymerization (GO:0031114)	1/24	1.193796e-02	2.437334e-02	0	0	9.645894e+01	4.271232e+02	TPX2
+GO_Biological_Process_2023	Regulation Of Biomineral Tissue Development (GO:0070167)	1/25	1.243259e-02	2.486517e-02	0	0	9.243519e+01	4.055533e+02	FBXO5
+GO_Biological_Process_2023	Regulation Of Cell Cycle Phase Transition (GO:1901987)	1/25	1.243259e-02	2.486517e-02	0	0	9.243519e+01	4.055533e+02	PLK1
+GO_Biological_Process_2023	Nuclear Membrane Organization (GO:0071763)	1/26	1.292699e-02	2.559282e-02	0	0	8.873333e+01	3.858514e+02	PLK1
+GO_Biological_Process_2023	Positive Regulation Of Mitotic Cell Cycle (GO:0045931)	1/27	1.342116e-02	2.604503e-02	0	0	8.531624e+01	3.677917e+02	AURKA
+GO_Biological_Process_2023	Positive Regulation Of Ubiquitin-Protein Transferase Activity (GO:0051443)	1/27	1.342116e-02	2.604503e-02	0	0	8.531624e+01	3.677917e+02	PLK1
+GO_Biological_Process_2023	Regulation Of Chromosome Segregation (GO:0051983)	1/28	1.391512e-02	2.673885e-02	0	0	8.215226e+01	3.511828e+02	BUB1
+GO_Biological_Process_2023	Establishment Of Mitotic Spindle Orientation (GO:0000132)	1/29	1.440885e-02	2.689651e-02	0	0	7.921429e+01	3.358617e+02	PLK1
+GO_Biological_Process_2023	Regulation Of Spindle Assembly (GO:0090169)	1/29	1.440885e-02	2.689651e-02	0	0	7.921429e+01	3.358617e+02	PLK1
+GO_Biological_Process_2023	Positive Regulation Of Viral Genome Replication (GO:0045070)	1/29	1.440885e-02	2.689651e-02	0	0	7.921429e+01	3.358617e+02	TOP2A
+GO_Biological_Process_2023	Negative Regulation Of Programmed Cell Death (GO:0043069)	2/381	1.472131e-02	2.722053e-02	0	0	1.293602e+01	5.457006e+01	PLK1;CDK1
+GO_Biological_Process_2023	Protein Localization To Chromatin (GO:0071168)	1/31	1.539564e-02	2.794024e-02	0	0	7.392593e+01	3.085425e+02	PLK1
+GO_Biological_Process_2023	Negative Regulation Of Microtubule Polymerization Or Depolymerization (GO:0031111)	1/31	1.539564e-02	2.794024e-02	0	0	7.392593e+01	3.085425e+02	TPX2
+GO_Biological_Process_2023	Regulation Of Metaphase/Anaphase Transition Of Cell Cycle (GO:1902099)	1/32	1.588871e-02	2.857052e-02	0	0	7.153763e+01	2.963194e+02	PLK1
+GO_Biological_Process_2023	Positive Regulation Of Chromosome Organization (GO:2001252)	1/33	1.638155e-02	2.909271e-02	0	0	6.929861e+01	2.849281e+02	CDK1
+GO_Biological_Process_2023	Establishment Of Mitotic Spindle Localization (GO:0040001)	1/34	1.687417e-02	2.909271e-02	0	0	6.719529e+01	2.742892e+02	PLK1
+GO_Biological_Process_2023	Microtubule Polymerization (GO:0046785)	1/34	1.687417e-02	2.909271e-02	0	0	6.719529e+01	2.742892e+02	TPX2
+GO_Biological_Process_2023	Negative Regulation Of Cell Cycle Process (GO:0010948)	1/34	1.687417e-02	2.909271e-02	0	0	6.719529e+01	2.742892e+02	FBXO5
+GO_Biological_Process_2023	Regulation Of Cellular Senescence (GO:2000772)	1/35	1.736657e-02	2.909271e-02	0	0	6.521569e+01	2.643328e+02	FBXO5
+GO_Biological_Process_2023	Establishment Of Spindle Orientation (GO:0051294)	1/35	1.736657e-02	2.909271e-02	0	0	6.521569e+01	2.643328e+02	PLK1
+GO_Biological_Process_2023	Positive Regulation Of Mitotic Nuclear Division (GO:0045840)	1/35	1.736657e-02	2.909271e-02	0	0	6.521569e+01	2.643328e+02	AURKA
+GO_Biological_Process_2023	Liver Development (GO:0001889)	1/35	1.736657e-02	2.909271e-02	0	0	6.521569e+01	2.643328e+02	AURKA
+GO_Biological_Process_2023	Protein Destabilization (GO:0031648)	1/36	1.785874e-02	2.941440e-02	0	0	6.334921e+01	2.549972e+02	PLK1
+GO_Biological_Process_2023	Regulation Of Peptidyl-Threonine Phosphorylation (GO:0010799)	1/36	1.785874e-02	2.941440e-02	0	0	6.334921e+01	2.549972e+02	PLK1
+GO_Biological_Process_2023	Negative Regulation Of Transferase Activity (GO:0051348)	1/37	1.835069e-02	2.997280e-02	0	0	6.158642e+01	2.462279e+02	FBXO5
+GO_Biological_Process_2023	Anterograde Axonal Transport (GO:0008089)	1/39	1.933394e-02	3.106108e-02	0	0	5.833918e+01	2.302002e+02	KIF4A
+GO_Biological_Process_2023	Axonal Transport (GO:0098930)	1/39	1.933394e-02	3.106108e-02	0	0	5.833918e+01	2.302002e+02	KIF4A
+GO_Biological_Process_2023	Protein Localization To Chromosome (GO:0034502)	1/40	1.982523e-02	3.133665e-02	0	0	5.684046e+01	2.228601e+02	PLK1
+GO_Biological_Process_2023	Negative Regulation Of Mitotic Cell Cycle Phase Transition (GO:1901991)	1/40	1.982523e-02	3.133665e-02	0	0	5.684046e+01	2.228601e+02	FBXO5
+GO_Biological_Process_2023	Regulation Of Microtubule-Based Process (GO:0032886)	1/41	2.031629e-02	3.185595e-02	0	0	5.541667e+01	2.159217e+02	AURKA
+GO_Biological_Process_2023	Regulation Of Chromosome Organization (GO:0033044)	1/43	2.129777e-02	3.286899e-02	0	0	5.277249e+01	2.031294e+02	BUB1
+GO_Biological_Process_2023	Positive Regulation Of Biomineral Tissue Development (GO:0070169)	1/43	2.129777e-02	3.286899e-02	0	0	5.277249e+01	2.031294e+02	FBXO5
+GO_Biological_Process_2023	Positive Regulation Of Osteoblast Differentiation (GO:0045669)	1/44	2.178817e-02	3.336313e-02	0	0	5.154264e+01	1.972221e+02	FBXO5
+GO_Biological_Process_2023	Mitotic Nuclear Division (GO:0140014)	1/45	2.227835e-02	3.358890e-02	0	0	5.036869e+01	1.916095e+02	PLK1
+GO_Biological_Process_2023	Chromosome Organization (GO:0051276)	1/45	2.227835e-02	3.358890e-02	0	0	5.036869e+01	1.916095e+02	TOP2A
+GO_Biological_Process_2023	Negative Regulation Of Cellular Metabolic Process (GO:0031324)	1/46	2.276831e-02	3.406557e-02	0	0	4.924691e+01	1.862708e+02	FBXO5
+GO_Biological_Process_2023	Negative Regulation Of Apoptotic Process (GO:0043066)	2/482	2.294644e-02	3.407198e-02	0	0	1.016146e+01	3.835536e+01	PLK1;CDK1
+GO_Biological_Process_2023	Regulation Of Signal Transduction By P53 Class Mediator (GO:1901796)	1/47	2.325805e-02	3.427502e-02	0	0	4.817391e+01	1.811871e+02	AURKA
+GO_Biological_Process_2023	Microtubule Bundle Formation (GO:0001578)	1/51	2.521481e-02	3.688136e-02	0	0	4.431111e+01	1.630792e+02	PLK1
+GO_Biological_Process_2023	Regulation Of Proteolysis (GO:0030162)	1/52	2.570344e-02	3.731759e-02	0	0	4.344009e+01	1.590398e+02	PLK1
+GO_Biological_Process_2023	Regulation Of Cyclin-Dependent Protein Kinase Activity (GO:1904029)	1/53	2.619186e-02	3.774709e-02	0	0	4.260256e+01	1.551716e+02	CCNB2
+GO_Biological_Process_2023	Negative Regulation Of Protein Ubiquitination (GO:0031397)	1/54	2.668006e-02	3.817001e-02	0	0	4.179665e+01	1.514643e+02	FBXO5
+GO_Biological_Process_2023	Positive Regulation Of Cellular Metabolic Process (GO:0031325)	1/56	2.765579e-02	3.927923e-02	0	0	4.027273e+01	1.444953e+02	CDK1
+GO_Biological_Process_2023	Peptidyl-Threonine Phosphorylation (GO:0018107)	1/58	2.863064e-02	4.008289e-02	0	0	3.885575e+01	1.380653e+02	CDK1
+GO_Biological_Process_2023	Positive Regulation Of Mitochondrion Organization (GO:0010822)	1/58	2.863064e-02	4.008289e-02	0	0	3.885575e+01	1.380653e+02	AURKA
+GO_Biological_Process_2023	Positive Regulation Of Proteolysis (GO:0045862)	1/59	2.911773e-02	4.019067e-02	0	0	3.818391e+01	1.350339e+02	PLK1
+GO_Biological_Process_2023	Regulation Of Multicellular Organismal Development (GO:2000026)	1/59	2.911773e-02	4.019067e-02	0	0	3.818391e+01	1.350339e+02	CDK1
+GO_Biological_Process_2023	Regulation Of Embryonic Development (GO:0045995)	1/62	3.057770e-02	4.191070e-02	0	0	3.630055e+01	1.265976e+02	CDK1
+GO_Biological_Process_2023	Positive Regulation Of Cell Cycle (GO:0045787)	1/65	3.203569e-02	4.360414e-02	0	0	3.459375e+01	1.190338e+02	AURKA
+GO_Biological_Process_2023	Peptidyl-Threonine Modification (GO:0018210)	1/66	3.252125e-02	4.395976e-02	0	0	3.405983e+01	1.166843e+02	CDK1
+GO_Biological_Process_2023	DNA-templated DNA Replication (GO:0006261)	1/69	3.397661e-02	4.561244e-02	0	0	3.255229e+01	1.100945e+02	MCM10
+GO_Biological_Process_2023	Negative Regulation Of Protein Binding (GO:0032091)	1/71	3.494576e-02	4.627952e-02	0	0	3.161905e+01	1.060490e+02	AURKA
+GO_Biological_Process_2023	Negative Regulation Of Supramolecular Fiber Organization (GO:1902904)	1/71	3.494576e-02	4.627952e-02	0	0	3.161905e+01	1.060490e+02	TPX2
+GO_Biological_Process_2023	DNA Replication (GO:0006260)	1/73	3.591403e-02	4.724262e-02	0	0	3.073765e+01	1.022527e+02	CDK1
+GO_Biological_Process_2023	Regulation Of DNA Replication (GO:0006275)	1/75	3.688143e-02	4.819173e-02	0	0	2.990390e+01	9.868429e+01	FBXO5
+GO_Biological_Process_2023	Negative Regulation Of Protein Serine/Threonine Kinase Activity (GO:0071901)	1/80	3.929610e-02	5.095792e-02	0	0	2.800422e+01	9.063930e+01	PLK1
+GO_Biological_Process_2023	Spindle Assembly (GO:0051225)	1/81	3.977838e-02	5.095792e-02	0	0	2.765278e+01	8.916450e+01	TPX2
+GO_Biological_Process_2023	Activation Of Protein Kinase Activity (GO:0032147)	1/81	3.977838e-02	5.095792e-02	0	0	2.765278e+01	8.916450e+01	TPX2
+GO_Biological_Process_2023	Positive Regulation Of Proteasomal Ubiquitin-Dependent Protein Catabolic Process (GO:0032436)	1/83	4.074228e-02	5.151927e-02	0	0	2.697561e+01	8.633514e+01	PLK1
+GO_Biological_Process_2023	Positive Regulation Of Ubiquitin-Dependent Protein Catabolic Process (GO:2000060)	1/83	4.074228e-02	5.151927e-02	0	0	2.697561e+01	8.633514e+01	PLK1
+GO_Biological_Process_2023	Positive Regulation Of Protein Ubiquitination (GO:0031398)	1/84	4.122391e-02	5.173571e-02	0	0	2.664926e+01	8.497749e+01	PLK1
+GO_Biological_Process_2023	Negative Regulation Of Cell Cycle (GO:0045786)	1/85	4.170532e-02	5.173571e-02	0	0	2.633069e+01	8.365593e+01	PLK1
+GO_Biological_Process_2023	Regulation Of Osteoblast Differentiation (GO:0045667)	1/85	4.170532e-02	5.173571e-02	0	0	2.633069e+01	8.365593e+01	FBXO5
+GO_Biological_Process_2023	Negative Regulation Of Binding (GO:0051100)	1/86	4.218651e-02	5.200350e-02	0	0	2.601961e+01	8.236910e+01	AURKA
+GO_Biological_Process_2023	Positive Regulation Of Proteasomal Protein Catabolic Process (GO:1901800)	1/90	4.410910e-02	5.403365e-02	0	0	2.484519e+01	7.754406e+01	PLK1
+GO_Biological_Process_2023	MAPK Cascade (GO:0000165)	1/98	4.794387e-02	5.836645e-02	0	0	2.278694e+01	6.922045e+01	CDK1
+GO_Biological_Process_2023	Regulation Of Proteasomal Ubiquitin-Dependent Protein Catabolic Process (GO:0032434)	1/109	5.319406e-02	6.435825e-02	0	0	2.045473e+01	6.001027e+01	PLK1
+GO_Biological_Process_2023	Protein Deubiquitination (GO:0016579)	1/112	5.462140e-02	6.527924e-02	0	0	1.989890e+01	5.785265e+01	CDK1
+GO_Biological_Process_2023	Regulation Of Protein Serine/Threonine Kinase Activity (GO:0071900)	1/112	5.462140e-02	6.527924e-02	0	0	1.989890e+01	5.785265e+01	CCNB2
+GO_Biological_Process_2023	Protein Modification By Small Protein Removal (GO:0070646)	1/114	5.557189e-02	6.601267e-02	0	0	1.954474e+01	5.648582e+01	CDK1
+GO_Biological_Process_2023	Positive Regulation Of Cell Cycle Process (GO:0090068)	1/118	5.747028e-02	6.785648e-02	0	0	1.887274e+01	5.390976e+01	AURKA
+GO_Biological_Process_2023	Protein Localization To Nucleus (GO:0034504)	1/122	5.936524e-02	6.967417e-02	0	0	1.824518e+01	5.152523e+01	PLK1
+GO_Biological_Process_2023	Regulation Of DNA Metabolic Process (GO:0051052)	1/124	6.031143e-02	7.036333e-02	0	0	1.794670e+01	5.039854e+01	FBXO5
+GO_Biological_Process_2023	Golgi Organization (GO:0007030)	1/130	6.314486e-02	7.323310e-02	0	0	1.710680e+01	4.725453e+01	CDK1
+GO_Biological_Process_2023	Epithelial Cell Differentiation (GO:0030855)	1/132	6.408763e-02	7.388927e-02	0	0	1.684394e+01	4.627878e+01	CDK1
+GO_Biological_Process_2023	Positive Regulation Of Transferase Activity (GO:0051347)	1/143	6.925762e-02	7.938300e-02	0	0	1.553052e+01	4.146527e+01	PLK1
+GO_Biological_Process_2023	Positive Regulation Of Protein Kinase Activity (GO:0045860)	1/145	7.019485e-02	7.998948e-02	0	0	1.531327e+01	4.067941e+01	TPX2
+GO_Biological_Process_2023	Regulation Of Cellular Component Organization (GO:0051128)	1/153	7.393528e-02	8.376483e-02	0	0	1.450146e+01	3.777000e+01	AURKA
+GO_Biological_Process_2023	Epithelium Development (GO:0060429)	1/154	7.440189e-02	8.380902e-02	0	0	1.440595e+01	3.743062e+01	CDK1
+GO_Biological_Process_2023	Protein Autophosphorylation (GO:0046777)	1/162	7.812708e-02	8.750233e-02	0	0	1.368461e+01	3.488780e+01	AURKA
+GO_Biological_Process_2023	Negative Regulation Of Macromolecule Metabolic Process (GO:0010605)	1/186	8.922186e-02	9.936071e-02	0	0	1.189489e+01	2.874555e+01	AURKA
+GO_Biological_Process_2023	Positive Regulation Of Protein Metabolic Process (GO:0051247)	1/196	9.380910e-02	1.038790e-01	0	0	1.127920e+01	2.669216e+01	PLK1
+GO_Biological_Process_2023	Cilium Organization (GO:0044782)	1/228	1.083489e-01	1.193055e-01	0	0	9.673519e+00	2.149842e+01	AURKA
+GO_Biological_Process_2023	Positive Regulation Of Programmed Cell Death (GO:0043068)	1/245	1.159875e-01	1.270030e-01	0	0	8.991803e+00	1.937080e+01	TOP2A
+GO_Biological_Process_2023	Positive Regulation Of Apoptotic Process (GO:0043065)	1/270	1.271137e-01	1.384127e-01	0	0	8.145808e+00	1.680214e+01	TOP2A
+GO_Biological_Process_2023	Positive Regulation Of Cell Migration (GO:0030335)	1/272	1.279983e-01	1.386059e-01	0	0	8.084871e+00	1.662038e+01	FBXO5
+GO_Biological_Process_2023	Positive Regulation Of Cell Differentiation (GO:0045597)	1/283	1.328493e-01	1.430685e-01	0	0	7.765169e+00	1.567430e+01	FBXO5
+GO_Biological_Process_2023	DNA Repair (GO:0006281)	1/291	1.363621e-01	1.460490e-01	0	0	7.547893e+00	1.503873e+01	CDK1
+GO_Biological_Process_2023	Regulation Of Intracellular Signal Transduction (GO:1902531)	1/297	1.389883e-01	1.480527e-01	0	0	7.392643e+00	1.458839e+01	AURKA
+GO_Biological_Process_2023	Negative Regulation Of Gene Expression (GO:0010629)	1/336	1.558839e-01	1.651527e-01	0	0	6.519071e+00	1.211663e+01	AURKA
+GO_Biological_Process_2023	Protein Modification By Small Protein Conjugation (GO:0032446)	1/364	1.678294e-01	1.768525e-01	0	0	6.007652e+00	1.072250e+01	PLK1
+GO_Biological_Process_2023	Positive Regulation Of Protein Phosphorylation (GO:0001934)	1/377	1.733237e-01	1.816654e-01	0	0	5.796099e+00	1.015821e+01	PLK1
+GO_Biological_Process_2023	Organelle Organization (GO:0006996)	1/418	1.904385e-01	1.985422e-01	0	0	5.215294e+00	8.649180e+00	KIF4A
+GO_Biological_Process_2023	Protein Ubiquitination (GO:0016567)	1/434	1.970304e-01	2.043279e-01	0	0	5.018476e+00	8.151997e+00	PLK1
+GO_Biological_Process_2023	Positive Regulation Of Cell Population Proliferation (GO:0008284)	1/483	2.169190e-01	2.237690e-01	0	0	4.497003e+00	6.872462e+00	FBXO5
+GO_Biological_Process_2023	Positive Regulation Of Cellular Process (GO:0048522)	1/594	2.603425e-01	2.671577e-01	0	0	3.634439e+00	4.891072e+00	FBXO5
+GO_Biological_Process_2023	Negative Regulation Of Transcription By RNA Polymerase II (GO:0000122)	1/763	3.223038e-01	3.283865e-01	0	0	2.803733e+00	3.174557e+00	PLK1
+GO_Biological_Process_2023	Regulation Of Cell Population Proliferation (GO:0042127)	1/766	3.233602e-01	3.283865e-01	0	0	2.792302e+00	3.152477e+00	FBXO5
+GO_Biological_Process_2023	Negative Regulation Of DNA-templated Transcription (GO:0045892)	1/1025	4.091660e-01	4.133842e-01	0	0	2.057943e+00	1.839048e+00	PLK1
+GO_Biological_Process_2023	Regulation Of Gene Expression (GO:0010468)	1/1127	4.401760e-01	4.424333e-01	0	0	1.861456e+00	1.527475e+00	AURKA
+GO_Biological_Process_2023	Regulation Of Transcription By RNA Polymerase II (GO:0006357)	1/2028	6.567940e-01	6.567940e-01	0	0	9.846516e-01	4.139326e-01	PLK1
